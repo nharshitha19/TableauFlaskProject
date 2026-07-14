@@ -1,0 +1,205 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:'Poppins',sans-serif;
+    background:#f5f9ff;
+    color:#333;
+}
+
+/* Navbar */
+
+.navbar{
+    padding:15px 0;
+}
+
+.navbar-brand{
+    font-size:30px;
+}
+
+.nav-link{
+    font-weight:500;
+    margin-left:12px;
+    transition:.3s;
+}
+
+.nav-link:hover{
+    color:#0d6efd !important;
+}
+
+/* Hero */
+
+.hero-img{
+    animation:float 3s ease-in-out infinite;
+}
+
+@keyframes float{
+
+0%{
+transform:translateY(0);
+}
+
+50%{
+transform:translateY(-15px);
+}
+
+100%{
+transform:translateY(0);
+}
+
+}
+
+/* Buttons */
+
+.btn{
+    border-radius:40px;
+    padding:12px 28px;
+    transition:.3s;
+}
+
+.btn:hover{
+    transform:translateY(-4px);
+}
+
+/* Cards */
+
+.card{
+
+border:none;
+
+border-radius:18px;
+
+transition:.4s;
+
+}
+
+.card:hover{
+
+transform:translateY(-10px);
+
+box-shadow:0 20px 40px rgba(0,0,0,.15);
+
+}
+
+/* Statistics */
+
+h2{
+font-weight:700;
+}
+
+.display-4{
+font-weight:700;
+}
+
+/* Footer */
+
+footer{
+
+margin-top:60px;
+
+}
+
+footer h4{
+
+font-weight:600;
+
+}
+
+footer p{
+
+margin-bottom:8px;
+
+}
+
+/* Responsive */
+
+@media(max-width:768px){
+
+.hero-img{
+
+margin-top:40px;
+
+}
+
+.display-4{
+
+font-size:2.2rem;
+
+}
+
+}
+.nav-link.active{
+    color:#0d6efd !important;
+    font-weight:600;
+    border-bottom:3px solid #0d6efd;
+}
+
+.nav-link{
+    transition:0.3s;
+}
+
+.nav-link:hover{
+    color:#0d6efd !important;
+}
+html{
+    scroll-behavior:smooth;
+}
+.card{
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 15px 30px rgba(0,0,0,0.15);
+}
+.btn{
+    border-radius:30px;
+    padding:12px 28px;
+    font-weight:600;
+}
+.hero-img{
+    animation:float 3s ease-in-out infinite;
+}
+
+@keyframes float{
+
+0%{
+transform:translateY(0);
+}
+
+50%{
+transform:translateY(-12px);
+}
+
+100%{
+transform:translateY(0);
+}
+
+}
+body{
+    background:linear-gradient(to bottom,#f8fbff,#ffffff);
+}
+.navbar{
+    padding:15px 0;
+}
+.nav-link.active{
+    color:#0d6efd !important;
+    font-weight:bold;
+}
+.hero-img{
+    max-width:90%;
+}
+
+@media(max-width:768px){
+
+.hero-img{
+margin-top:40px;
+}
+
+}
