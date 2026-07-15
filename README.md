@@ -1,10 +1,10 @@
 # ⚡ E-CarStart - Electric Vehicle Analytics Dashboard
 
 <p align="center">
-  <img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-07-15 092159.png">
-  <img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-07-15 092226.png">
-  <img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-07-15 092249.png">
-  <img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-07-15 092309.png">
+  <img src="D:\TableauFlaskProject\Screenshots\Home.png">
+  <img src="D:\TableauFlaskProject\Screenshots\About.png">
+  <img src="D:\TableauFlaskProject\Screenshots\Dashboard.png">
+  <img src="D:\TableauFlaskProject\Screenshots\Story page.png">
 </p>
 
 ---
@@ -94,7 +94,7 @@ cd Electric-Vehicle-Analytics
 ### Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ### Run the Flask Application
@@ -102,7 +102,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-
 Open your browser and visit:
 
 ```
