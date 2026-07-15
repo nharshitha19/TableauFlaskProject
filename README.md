@@ -1,104 +1,115 @@
-# ⚡ E-CarStart – Electric Vehicle Analytics using Flask & Tableau
+<div align="center">
 
-An interactive **Flask-based web application** that integrates **Tableau Public** dashboards and stories to visualize and analyze **Electric Vehicle (EV)** data across India.
+# ⚡ E-CarStart
 
-The application provides interactive insights into EV registrations, manufacturer performance, vehicle categories, and state-wise adoption through a clean and responsive web interface.
+### 🚗 Electric Vehicle Analytics using Flask & Tableau
 
----
-
-## 📌 Project Overview
-
-**E-CarStart** combines the power of **Python Flask** and **Tableau Public** to build an interactive analytics platform for exploring India's Electric Vehicle ecosystem.
-
-Users can:
-
-- 📊 Explore interactive Tableau dashboards
-- 📖 Understand insights through Tableau Stories
-- 🚗 Analyze EV registration trends
-- 🏭 Compare manufacturer performance
-- 📍 Visualize state-wise EV adoption
-- 📱 Access the application on desktop and mobile devices
+An interactive web application that visualizes and analyzes **Electric Vehicle (EV)** data across India using **Python Flask** and **Tableau Public**.
 
 ---
 
-## ✨ Features
+![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black?logo=flask)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange?logo=tableau)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github)
+
+</div>
+
+---
+
+# 📌 Project Overview
+
+**E-CarStart** is a Flask-based web application developed to visualize and analyze India's **Electric Vehicle (EV)** ecosystem through interactive dashboards and stories.
+
+The project integrates **Tableau Public** with **Flask** to provide meaningful insights into:
+
+- 📈 EV Registration Trends
+- 🚗 Vehicle Categories
+- 🏭 Manufacturer Performance
+- 📍 State-wise EV Adoption
+- 📊 Interactive Data Visualization
+
+---
+
+# 📸 Application Preview
+
+## 🏠 Home Page
+
+<p align="center">
+<img src="Screenshots/Home.png" width="90%">
+</p>
+
+---
+
+## 📊 Dashboard
+
+<p align="center">
+<img src="Screenshots/Dashboard.png" width="90%">
+</p>
+
+---
+
+## 📖 Story
+
+<p align="center">
+<img src="Screenshots/Story page.png" width="90%">
+</p>
+
+---
+
+## ℹ️ About Page
+
+<p align="center">
+<img src="Screenshots/About.png" width="90%">
+</p>
+
+---
+
+# ✨ Features
 
 | Feature | Description |
-|---------|-------------|
-| 🏠 Home Page | Responsive landing page with project overview |
-| 📊 Interactive Dashboard | Tableau dashboard with dynamic visualizations |
-| 📖 Interactive Story | Story-based presentation of key insights |
-| 📈 EV Registration Analysis | Analyze EV growth trends |
-| 🚗 Vehicle Category Analysis | Compare different vehicle segments |
-| 🏭 Manufacturer-wise Insights | Performance analysis of EV manufacturers |
-| 📍 State-wise Analysis | Explore EV adoption across India |
-| 📱 Responsive Design | Mobile-friendly interface |
-| ⚡ Modern UI | Clean and user-friendly design |
+|----------|-------------|
+| 🏠 Home Page | Responsive landing page |
+| 📊 Dashboard | Interactive Tableau Dashboard |
+| 📖 Story | Interactive Tableau Story |
+| 📈 EV Analytics | Registration trend analysis |
+| 🚗 Vehicle Insights | Vehicle category analysis |
+| 🏭 Manufacturer Analysis | Brand-wise EV performance |
+| 📍 State Analysis | State-wise EV adoption |
+| 📱 Responsive UI | Mobile-friendly interface |
+| ⚡ Modern Design | Clean and intuitive user interface |
 
 ---
 
-## 🛠️ Technologies Used
+# 📊 Dashboard Highlights
+
+The dashboard enables users to explore:
+
+- 📈 EV Registration Trends
+- 🏭 Manufacturer-wise Performance
+- 🚗 Vehicle Category Distribution
+- 📍 State-wise EV Adoption
+- 📅 Year-wise Growth Analysis
+- 🎛️ Interactive Filters and Visualizations
+
+---
+
+# 🛠️ Technology Stack
 
 | Technology | Purpose |
 |------------|---------|
-| Python | Backend Development |
-| Flask | Web Framework |
-| HTML5 | Web Structure |
-| CSS3 | Styling |
-| Bootstrap 5 | Responsive UI |
-| Tableau Public | Interactive Data Visualization |
-| Git & GitHub | Version Control |
+| 🐍 Python | Backend Development |
+| 🌐 Flask | Web Framework |
+| 🎨 HTML5 | Web Structure |
+| 🎨 CSS3 | Styling |
+| ⚡ Bootstrap 5 | Responsive Design |
+| 📊 Tableau Public | Interactive Dashboards |
+| 🐙 Git & GitHub | Version Control |
 
 ---
 
-## 📸 Application Preview
-
-### 🏠 Home Page
-
-<p align="center">
-<img src="Screenshots/Home.png" width="900">
-</p>
-
----
-
-### 📊 Dashboard
-
-<p align="center">
-<img src="Screenshots/Dashboard.png" width="900">
-</p>
-
----
-
-### 📖 Story
-
-<p align="center">
-<img src="Screenshots/Story page.png" width="900">
-</p>
-
----
-
-### ℹ️ About Page
-
-<p align="center">
-<img src="Screenshots/About.png" width="900">
-</p>
-
----
-
-## 📊 Dashboard Highlights
-
-The interactive dashboard provides valuable insights into India's EV ecosystem, including:
-
-- 📈 EV Registration Trends
-- 🏭 Manufacturer Performance
-- 🚗 Vehicle Category Analysis
-- 📍 State-wise EV Adoption
-- 📊 Interactive Filters
-- 📖 Story-based Data Presentation
-
----
-
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```text
 TableauFlaskProject/
@@ -156,7 +167,7 @@ cd TableauFlaskProject
 python -m pip install -r requirements.txt
 ```
 
-### Run the Flask Application
+### Run the Application
 
 ```bash
 python app.py
@@ -170,98 +181,98 @@ http://127.0.0.1:5000
 
 ---
 
-## 📄 Project Modules
+# 📄 Project Modules
 
 ### 🏠 Home
 
-- Project Introduction
-- Technology Overview
+- Project Overview
+- Technology Stack
 - Navigation Menu
 - Project Highlights
 
 ### 📊 Dashboard
 
-Interactive Tableau dashboard for exploring Electric Vehicle analytics.
+Interactive Tableau dashboard for EV analytics.
 
 ### 📖 Story
 
-Interactive Tableau Story presenting the key findings and insights.
+Interactive Tableau Story presenting key findings and insights.
 
 ### ℹ️ About
 
-Provides project objectives, technologies used, and developer information.
+Project objectives, technologies used, and developer details.
+
+---
+
+# 🎯 Project Objectives
+
+- Build an interactive EV analytics platform.
+- Integrate Tableau Public with Flask.
+- Develop a responsive web application.
+- Present insights through interactive dashboards.
+- Improve data-driven decision making using visualization.
 
 ---
 
 # 🔗 Project Links
 
-### 📂 GitHub Repository
+## 📂 GitHub Repository
 
-👉 https://github.com/nharshitha19/TableauFlaskProject
+👉 **https://github.com/nharshitha19/TableauFlaskProject**
 
-### 📊 Tableau Public Profile
+## 📊 Tableau Public Profile
 
-👉 https://public.tableau.com/app/profile/harshitha.narahari
+👉 **https://public.tableau.com/app/profile/harshitha.narahari**
 
-### 📈 Tableau Dashboard
+## 📈 Tableau Dashboard
 
-👉 https://public.tableau.com/app/profile/harshitha.narahari/viz/Ev_dashboard_17840050687600/ElectricCarsAnalyticsDashboard
+👉 **https://public.tableau.com/app/profile/harshitha.narahari/viz/Ev_dashboard_17840050687600/ElectricCarsAnalyticsDashboard**
 
-### 📖 Tableau Story
+## 📖 Tableau Story
 
-👉 https://public.tableau.com/app/profile/harshitha.narahari/viz/Ev_story/StoryofelectriccarsinIndia
-
----
-
-## 🎯 Project Objectives
-
-- Build an interactive EV analytics web application.
-- Integrate Tableau Public with Flask.
-- Present EV insights through interactive dashboards.
-- Develop a responsive and user-friendly interface.
-- Demonstrate data visualization using real-world EV datasets.
+👉 **https://public.tableau.com/app/profile/harshitha.narahari/viz/Ev_story/StoryofelectriccarsinIndia**
 
 ---
 
-## 🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 - 🔐 User Authentication
 - ☁️ Cloud Deployment
-- 📡 Real-Time EV Data Integration
+- 📡 Real-Time EV Data
 - 🤖 AI-based EV Prediction
-- 📥 Export Dashboard Reports
+- 📥 Export Reports
 - 📱 Progressive Web Application (PWA)
 
 ---
 
-## 🎓 Learning Outcomes
+# 🎓 Learning Outcomes
 
-- Flask Web Application Development
-- Tableau Dashboard & Story Development
-- Data Visualization
-- Responsive Web Design
+- Flask Web Development
+- Tableau Dashboard Development
+- Interactive Data Visualization
+- Responsive UI Design
 - Python–Tableau Integration
 - Git & GitHub Version Control
 
 ---
 
-## 📌 Project Status
+# 📌 Project Status
 
-✅ Project Completed
+✅ Completed
 
 ✅ Documentation Completed
 
 ✅ Tableau Dashboard Published
 
-✅ Flask Integration Completed
+✅ Tableau Story Published
 
-✅ GitHub Repository Available
+✅ Flask Integration Completed
 
 ---
 
-## 👩‍💻 Developed By
+# 👩‍💻 Developed By
 
-**Harshitha Narahari**
+## **Harshitha Narahari**
 
 🎓 Bachelor of Engineering (Computer Science)
 
@@ -269,12 +280,20 @@ Provides project objectives, technologies used, and developer information.
 
 ---
 
+<div align="center">
+
 ## ⭐ Support
 
-If you found this project useful, consider giving it a **⭐ Star** on GitHub.
+If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
 
 ---
 
-## 📄 License
+### Made with using Python, Flask & Tableau
+
+</div>
+
+---
+
+# 📄 License
 
 This project is developed for **academic and educational purposes**.
