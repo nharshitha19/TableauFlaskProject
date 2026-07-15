@@ -12,7 +12,7 @@ An interactive web application that visualizes and analyzes **Electric Vehicle (
 ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black?logo=flask)
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange?logo=tableau)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github)
+
 
 </div>
 
