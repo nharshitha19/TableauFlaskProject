@@ -1,10 +1,10 @@
 # ⚡ E-CarStart - Electric Vehicle Analytics Dashboard
 
 <p align="center">
-  <img src="D:\TableauFlaskProject\static\images\python.webp">
-  <img src="D:\TableauFlaskProject\static\images\flask.webp">
-  <img src="D:\TableauFlaskProject\static\images\tableau.png">
-  <img src="D:\TableauFlaskProject\static\images\bootstrap.png">
+  <img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-07-15 092159.png">
+  <img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-07-15 092226.png">
+  <img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-07-15 092249.png">
+  <img src="C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-07-15 092309.png">
 </p>
 
 ---
