@@ -1,12 +1,14 @@
 # ⚡ E-CarStart - Electric Vehicle Analytics Dashboard
 
 <p align="center">
-  <img src="D:\TableauFlaskProject\Screenshots\Home.png">
-  <img src="D:\TableauFlaskProject\Screenshots\About.png">
-  <img src="D:\TableauFlaskProject\Screenshots\Dashboard.png">
-  <img src="D:\TableauFlaskProject\Screenshots\Story page.png">
+  <img src="Screenshots/Home.png" width="800">
+  <br><br>
+  <img src="Screenshots/About.png" width="800">
+  <br><br>
+  <img src="Screenshots/Dashboard.png" width="800">
+  <br><br>
+  <img src="Screenshots/Story page.png" width="800">
 </p>
-
 ---
 
 ## 📌 Project Overview
